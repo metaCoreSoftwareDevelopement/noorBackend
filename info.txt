@@ -1,0 +1,7 @@
+MySQL 
+user : root
+Pass : Ayush@123
+
+Strapi
+Email : metasdevs@gmail.com
+password : Metadevs2023
